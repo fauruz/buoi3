@@ -1,0 +1,23 @@
+commit 5d55bf5188bf0a4ca423ce063f9bda484617b603 (HEAD -> master, origin/master)
+Author: fauruz <le.phong1456@gmail.com>
+Date:   Wed Aug 30 15:08:58 2023 +0700
+
+    update bai2-v1
+
+commit 994a3f318fa85663681bdd528da67d5a71d7564a
+Author: fauruz <le.phong1456@gmail.com>
+Date:   Wed Aug 30 13:45:14 2023 +0700
+
+    first commit
+
+commit b2239dd2dc9932104a36bf35c48c1b9a035cc278
+Author: fauruz <le.phong1456@gmail.com>
+Date:   Wed Aug 30 13:39:36 2023 +0700
+
+    Add project files.
+
+commit 0a6c4ed6fa6bb6aa47911c341d3db0fa6ae6c598
+Author: fauruz <le.phong1456@gmail.com>
+Date:   Wed Aug 30 13:39:34 2023 +0700
+
+    Add .gitattributes and .gitignore.
